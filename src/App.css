@@ -38,6 +38,7 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   width: fit-content;
+  margin-left: 500px;
 }
 
 .search {
@@ -53,6 +54,7 @@ h1 {
   background: #1f2123;
   -webkit-box-shadow: 5px 5px 7px #1c1d1f, -5px -5px 7px #222527;
   box-shadow: 5px 5px 7px #1c1d1f, -5px -5px 7px #222527;
+  margin-left: 200px;
 }
 
 .search input {
@@ -200,6 +202,8 @@ h1 {
   .search {
     padding: 1rem 1.75rem;
     width: 100%;
+    margin-left: 30px;
+
   }
 
   .search input {
@@ -219,6 +223,7 @@ h1 {
 
   h1 {
     font-size: 2rem;
+    margin-left: 140px;
   }
 
   .container {
@@ -228,5 +233,6 @@ h1 {
   .movie {
     width: "100%";
     margin: 1rem;
+    margin-left: 80px;
   }
 }
